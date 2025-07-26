@@ -6,7 +6,7 @@
 📁 Conhecimentos: Python, SQL, MongoDB, MySQL, Oracle  
 🚀 Compartilho projetos e aprendizados sobre dados e saúde digital e inteligencia Artificial.
 
-Atualiza README do perfil
+
 
 
 
