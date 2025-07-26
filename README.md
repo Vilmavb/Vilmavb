@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Vilma Vilas Boas!
+# 👩‍💻 Olá, eu sou a Vilma Villas Boas!
 
 🎓 Graduada em Banco de Dados pela Fatec Bauru  
 📊 Interesse em pesquisas aplicadas à saúde pública e tecnologia com propósito social  
